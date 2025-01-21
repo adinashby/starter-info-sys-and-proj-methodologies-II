@@ -68,7 +68,6 @@ This deliverable focuses on implementing the first 60% of your game. You should 
 ---
 
 #### **Deliverable 2: Complete Game**  
-*Due: [Insert Deadline]*  
 **Worth 15% of Final Grade**
 
 This final deliverable will include the remaining 40% of your game development. You must complete the following:
